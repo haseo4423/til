@@ -1,4 +1,4 @@
 ### PostgreSQLコマンド
 
 - `TRUNCATE TABLE table_name RESTART IDENTITY;`
- - テーブルを空にしてindexも振り直す
+  - テーブルを空にしてindexも振り直す
