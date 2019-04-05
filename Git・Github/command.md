@@ -23,3 +23,7 @@ cp releasenote.txt ~
 
 https://tech.gamewith.co.jp/entry/2018/05/22/154951
 https://github.com/vivayashi/template
+
+##### コミットしてしまったファイルをgitignoreできるようにする
+
+- `git rm --cached filename`
