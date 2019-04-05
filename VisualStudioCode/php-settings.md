@@ -28,3 +28,9 @@
   "localSourceRoot": "${workspaceRoot}"
 }
 ```
+
+## php cs fixerの設定
+
+##### php-cs-fixerをインストールしておく
+
+- `brew install php-cs-fixer`
