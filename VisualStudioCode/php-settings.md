@@ -1,6 +1,7 @@
 ## phpcsの設定
 
 - `brew install php-code-sniffer`
+- `brew install composer`
 - `composer global require squizlabs/php_codesniffer`
 
 ##### vscode settings編集
