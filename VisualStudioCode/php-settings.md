@@ -1,3 +1,6 @@
+## PHP Intelephenseの設定
+特になし
+
 ## phpcsの設定
 
 - `brew install php-code-sniffer`
