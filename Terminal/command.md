@@ -14,3 +14,9 @@ source ~/.bashrc
 ```console
 php -r 'echo password_hash("パスワードを入れる", PASSWORD_BCRYPT), PHP_EOL;'
 ```
+
+- サーバー容量確認(全体)
+`df -h`
+
+- サーバー容量確認(フォルダごと)
+`du -sh /*`
