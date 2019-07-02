@@ -20,3 +20,6 @@ php -r 'echo password_hash("パスワードを入れる", PASSWORD_BCRYPT), PHP_
 
 - サーバー容量確認(フォルダごと)
 `du -sh /*`
+
+- .gzファイルを解凍せずに中身をみる
+`zcat ファイル名.gz`
